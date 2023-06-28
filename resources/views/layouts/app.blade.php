@@ -70,7 +70,7 @@
 <script src="plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
 <script src="dist/js/adminlte.min.js?v=3.2.0"></script>
 <script>
-    //ตัวนี้จะเอาไว้ set ค่าต่างๆ toastr
+    
     toastr.options = {
         "closeButton": true,
         "debug": false,
