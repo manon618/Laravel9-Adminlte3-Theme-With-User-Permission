@@ -19,6 +19,13 @@
 - Login user test@gmail.com
 - Password 12345678
 
+![image](https://github.com/manon618/Laravel9-Adminlte-User-Permission/assets/121915788/d7cd0c20-1baa-48e3-a3cf-c5bd4f43d8b5)
+![image](https://github.com/manon618/Laravel9-Adminlte-User-Permission/assets/121915788/da3c3bd9-0a34-4309-b4fe-cf83d2bd897b)
+![image](https://github.com/manon618/Laravel9-Adminlte-User-Permission/assets/121915788/148bdb8a-3a3b-4ce7-854c-3f3badf32797)
+![image](https://github.com/manon618/Laravel9-Adminlte-User-Permission/assets/121915788/9ee2a917-3311-4e7d-878d-1d810f2dcad6)
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
