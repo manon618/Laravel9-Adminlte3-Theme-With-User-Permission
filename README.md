@@ -8,6 +8,7 @@
 </p>
 
 ## Install
+- composer update
 - npm install
 - npm run build
 - php artisan migrate
